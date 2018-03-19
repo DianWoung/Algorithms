@@ -78,4 +78,9 @@ public class BinarySearch {
                 StdOut.println(key);
         }
     }
+
+    public static void say(String str)
+    {
+        System.out.println(str);
+    }
 }
